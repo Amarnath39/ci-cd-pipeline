@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div>
-     <h1>This is from jenkins pipeline v23</h1>
+     <h1>This is from jenkins pipeline v25</h1>
     </div>
   )
 }
